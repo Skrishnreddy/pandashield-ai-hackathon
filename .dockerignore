@@ -1,0 +1,14 @@
+**/node_modules
+**/dist
+.git
+.env
+.env.*
+!.env.example
+tests/e2e/results
+test-results
+presentation
+video
+submission
+docs
+assets
+*.log

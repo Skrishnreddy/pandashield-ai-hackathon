@@ -1,0 +1,18 @@
+{
+  "name": "acme-orders-api",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Intentionally vulnerable demo service for PandaShield AI (do not deploy)",
+  "main": "src/server.js",
+  "dependencies": {
+    "axios": "0.21.0",
+    "express": "4.17.1",
+    "jsonwebtoken": "8.5.1",
+    "lodash": "4.17.15",
+    "node-serialize": "0.0.4",
+    "pg": "8.7.1"
+  },
+  "devDependencies": {
+    "minimist": "1.2.5"
+  }
+}

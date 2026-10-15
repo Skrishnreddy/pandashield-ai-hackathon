@@ -1,0 +1,5 @@
+{
+  "name": "Acme Orders API (intentionally vulnerable demo)",
+  "description": "A small Express + Python order-management service written for this hackathon with deliberate security flaws. It is never executed by PandaShield.",
+  "appContext": "Internet-facing order-management REST API for a small e-commerce store. Customers log in with JWTs, the API stores customer names, addresses and payment references in PostgreSQL, and a Python worker generates nightly PDF reports from uploaded templates. Runs in a Docker container on a public cloud VM."
+}
